@@ -1,0 +1,29 @@
+1. What is the purpose of the PATCH method in a RESTful application?
+- Creates a new resurce at the specified URI
+- Performs a partial update of the resource at the specified URI ***
+- Either creates or replaces the resource at the specified URI
+- Removes and recreates the resource at the specified URI
+
+2. What status code is returned when a server doesn't support a requested media type?
+- 400 Bad Request
+- 406 Unacceptable
+- 411 Invalid Request Type
+- 415 Unsupported Media Type ***
+
+3. What is the Halting Problem?
+- The problem of determining how many times a given function will pause before completing
+- The problem of determining whether a program will finish running, or continue to run forever ***
+- The problem of determining how many possible end states a program can have
+- The problem of determining where coders stop working on specific functions due to technical limitations 
+
+4. Which of the following is a common characteristic in a CSRF attack?
+- Involves HTML requests that have side effects
+- Involves sites that rely on the user's input
+- Exploits the user's trust in a site
+- Tricks the user's browser into senting HTTP requests to a target site ***
+
+5. Which of the following is not a function of a Fetch API?
+- Provides a generic definition of Request and Response objects
+- Provides definition for related concepts, such as CORS and HTTP origin headers
+- Won't send cookies automatically
+- Receives cross-site cookies ***
