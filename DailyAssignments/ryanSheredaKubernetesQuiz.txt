@@ -1,0 +1,48 @@
+Source: PDF [Node(Worker) Components]
+1. What is the primary implementer of Pod and Node APIs?
+- Kube-proxy
+- Kubelet ***
+- PodSpecs
+- Node Manager
+
+Source: https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/#kubernetes-clusters
+2. What are the two types of resources in a Kubernetes cluster?
+- Master and Branches
+- Root and Nodes
+- Master and Nodes ***
+- Root and Branches
+
+Source: https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/#deploying-your-first-app-on-kubernetes
+3. What is the Kubernetes command line interface?
+- cmd
+- Kubectl ***
+- powershell
+- Kubecmd
+
+Source: https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/#kubernetes-pods
+4. What resources are not shared in a Pod?
+- storage
+- networking
+- instructions
+- commands ***
+
+Source: https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/#services-and-labels
+5. How do services match Pods together into sets?
+- Labels and Selectors ***
+- Names and Calls
+- Names and Selectors
+- Labels and Calls
+
+Source: https://www.youtube.com/playlist?list=PLDnRMnDDjAzK5uZLidDUtHtD1iN06Qe0G
+6. How is traffic distributed across multiple pods?
+- Services ***
+- Pods
+- Routing
+- Alternation
+
+Source: https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/#updating-an-application
+7. What is a rolling update?
+- Take all Pods down, and restart them one by one
+- Take all Pods down, and restart all at once
+- Update pods one at a time without interrupting service ***
+- Updating half of the pods every time an update is ready
