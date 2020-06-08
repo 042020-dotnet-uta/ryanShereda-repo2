@@ -33,7 +33,7 @@ Source: https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-int
 - Names and Selectors
 - Labels and Calls
 
-Source: https://www.youtube.com/playlist?list=PLDnRMnDDjAzK5uZLidDUtHtD1iN06Qe0G
+Source: https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/#scaling-overview
 6. How is traffic distributed across multiple pods?
 - Services ***
 - Pods
